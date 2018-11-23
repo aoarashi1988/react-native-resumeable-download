@@ -1,0 +1,19 @@
+{
+  "name": "react-native-resumeable-download",
+  "version": "0.0.1",
+  "description": "resumeable download \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Djs re\u001b[2~s\u001b[3~umable download for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "react-native",
+    "resumable"
+  ],
+  "author": "yefeng",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-fs": "^2.12.1"
+  }
+}
